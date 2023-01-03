@@ -154,6 +154,8 @@
         "settings-scrollspeed-desc": "Adjusts the speed at which the mouse scrolls in the editor.",
         "settings-contextualexecution": "Contextual execution",
         "settings-contextualexecution-desc": "Files ran from the UI will assume the workspace of their directory.",
+        "settings-languageserver": "Language server",
+        "settings-languageserver-desc": "Choose your language server.",
 
         "settings-rfu_no_cap": "No cap",
         "settings-rfu_no_cap-desc": "Removes FPS cap",
