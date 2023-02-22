@@ -27,9 +27,9 @@
         "connections-disabled": "Connections are disabled.",
         "button-execute": "Execute",
         "button-clear": "Clear",
-        "button-open-file": "Open file",
-        "button-execute-file": "Execute file",
-        "button-save-file": "Save file",
+        "button-open-file": "Open",
+        "button-execute-file": "Execute",
+        "button-save-file": "Save",
 
         "dialog-ok": "Ok",
         "dialog-cancel": "Cancel",
@@ -53,10 +53,9 @@
 
         "page-settings": "Settings",
         "settings-category-editor": "Editor",
-        "settings-category-interface": "Interface & layout",
-        "settings-category-console": "Console & logging",
-        "settings-category-explorer": "Explorer",
-        "settings-category-integrations": "Integrations",
+        "settings-category-interface": "Layout",
+        "settings-category-console": "Console",
+        "settings-category-misc": "Miscellaneous",
 
         "settings-appcategory": "Application",
         "settings-reset": "Reset all settings",
