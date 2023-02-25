@@ -154,6 +154,8 @@
         "settings-contextualexecution-desc": "Files ran from the UI will assume the workspace of their directory.",
         "settings-languageserver": "Language server",
         "settings-languageserver-desc": "Choose your language server.",
+        "settings-ai": "AI features",
+        "settings-ai-desc": "Enable beta AI features for code editing.",
 
         "settings-rfu_no_cap": "No cap",
         "settings-rfu_no_cap-desc": "Removes FPS cap",
@@ -236,6 +238,16 @@
         "theme-error-title": "Theme error",
         "theme-error-p1": "An error has occured while applying theme.",
         "theme-error-p2": "Do you want to reset theme settings?",
+
+        "ai-key-title": "SynapseAI Key",
+        "ai-key-contents": "Input your SynapseAI key below. You can get yourself key over at the OpenAI website.",
+        "ai-key-link": "An OpenAI key is necessary to use SynapseAI.",
+        "ai-option-add-key": "Add key",
+        "ai-option-remove-key": "Remove key",
+        "ai-option-clear": "Clear conversations",
+        "ai-error": "SynapseAI Error",
+        "ai-error-generic": "SynapseAI has errored. Make sure your key is correct, or has not expired.",
+        "ai-input-placeholder": "Send message...",
 
         "lite-grandfathered": "Thank you for being a Synapse X veteran. As you have bought Synapse X before Version 3.0 was released, you were upgraded to full Synapse X for free.",
         "lite-notice": "You are currently using Synapse X Lite. While you have full execution ability, some extra functionality is only accessible for full Synapse X users.",
