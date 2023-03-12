@@ -224,7 +224,7 @@
         "settings-gistpat-dialog-request": "Github Gist integration requires a Github personal access token. Would you like to create one? (will open a browser window)",
         "settings-gistpat-dialog-input": "Enter your personal access token below.",
 
-        "page-theming": "Customization",
+        "page-customization": "Customization",
         "theme-page-list": "Custom themes and options",
         "theme-list": "Available themes",
         "theme-directory": "Theme directory",
